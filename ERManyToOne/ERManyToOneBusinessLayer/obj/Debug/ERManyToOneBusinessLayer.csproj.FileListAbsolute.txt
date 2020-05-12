@@ -1,0 +1,15 @@
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneBusinessLayer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneBusinessLayer.pdb
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneDAL.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneEntityLayer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\EntityFramework.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneDAL.pdb
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneDAL.dll.config
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneEntityLayer.pdb
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\ERManyToOneEntityLayer.dll.config
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\bin\Debug\EntityFramework.xml
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\obj\Debug\ERManyToOneBusinessLayer.csprojAssemblyReference.cache
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\obj\Debug\ERManyToOneBusinessLayer.csproj.CoreCompileInputs.cache
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\obj\Debug\ERManyToOneBusinessLayer.csproj.CopyComplete
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\obj\Debug\ERManyToOneBusinessLayer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneBusinessLayer\obj\Debug\ERManyToOneBusinessLayer.pdb

@@ -1,0 +1,12 @@
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\ERManyToOneEntityLayer.dll.config
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\ERManyToOneEntityLayer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\ERManyToOneEntityLayer.pdb
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\EntityFramework.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\EntityFramework.xml
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\obj\Debug\ERManyToOneEntityLayer.csprojAssemblyReference.cache
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\obj\Debug\ERManyToOneEntityLayer.csproj.CoreCompileInputs.cache
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\obj\Debug\ERManyToOneEntityLayer.csproj.CopyComplete
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\obj\Debug\ERManyToOneEntityLayer.dll
+D:\EntityRelations\ERManyToOne\ERManyToOneEntityLayer\obj\Debug\ERManyToOneEntityLayer.pdb
