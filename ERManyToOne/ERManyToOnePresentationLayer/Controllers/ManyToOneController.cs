@@ -11,6 +11,7 @@ namespace ERManyToOnePresentationLayer.Controllers
         [Route("api/GetCourses")]
         public IHttpActionResult GetCourses()
         {
+            //Fetching the data from the database
             List<CourseModel> courses = model.GetCourses();
             return Ok(courses);
         }
